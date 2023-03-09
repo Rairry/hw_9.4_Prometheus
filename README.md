@@ -30,7 +30,7 @@
 Установите Node Exporter.
 
 *Приведите скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО].*
-
+![image](https://user-images.githubusercontent.com/124167007/224185084-c8bd1ddd-22dc-472d-94f2-2bc15b8a0691.png)
 ---
 
 ### Задание 3
