@@ -38,8 +38,9 @@
 Подключите Node Exporter к серверу Prometheus.
 
 *Приложите скриншот конфига из интерфейса Prometheus вкладки Status > Configuration.*
+![image](https://user-images.githubusercontent.com/124167007/224188577-26ba8f5e-c556-4920-bcda-7c7e9aa5616f.png)
 *Приложите скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта.*
-
+![image](https://user-images.githubusercontent.com/124167007/224188612-dc6c7842-2d55-4574-b1f2-f84e120029a3.png)
 ---
 ## Дополнительные задания со звёздочкой*
 
