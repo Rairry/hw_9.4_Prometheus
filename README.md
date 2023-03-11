@@ -63,4 +63,4 @@
 
 *Приложите скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter.*
 
-
+![image](https://user-images.githubusercontent.com/124167007/224516605-d7d1f145-146b-4eda-a20d-996c2c4fd454.png)
